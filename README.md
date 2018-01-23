@@ -1,4 +1,4 @@
-# IranGeoNet
+# IrGeoSet
 Geographical Information of Iran, it's provinces and Cities 
 
 ## Online Data Sources
