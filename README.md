@@ -1,5 +1,5 @@
 # IrGeoSet
-Geographical Information of Iran, it's provinces and Cities 
+Geographical Information of Iran, it's provinces, Cities and districts.
 
 ## Online Data Sources
 Geographical information can be accessed by online data sources such as google map and fusion table.
